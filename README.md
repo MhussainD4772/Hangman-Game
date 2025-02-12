@@ -53,5 +53,5 @@ Hangman-Game/
 This project is open-source and available under the **MIT License**.
 
 ## **👨‍💻 Author**
-- **Your Name** - [GitHub Profile](https://github.com/MhussainD4772)
+- **Syed Mohammed Hussain** - [GitHub Profile](https://github.com/MhussainD4772)
 
